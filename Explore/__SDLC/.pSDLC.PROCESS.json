@@ -1,0 +1,24 @@
+[
+   {
+      "objectGuid": "62Vx531W7iHky9hse4Kr6q",
+      "objectName": "pSDLC",
+      "objectType": "PROCESS",
+      "path": "/Explore/__SDLC",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "QqdsQR6kbeJHQjA-gt-5899170-2021-03-16T15:59:51.687Z::pd.xml"
+         }
+      }
+   }
+]
